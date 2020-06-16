@@ -8,7 +8,7 @@
               class="zasoby_logo"
               border="0"
               alt="Zasoby_sem_logo"
-              src="..\assets\img\zasoby_sem_logo.png"
+              src="..\..\assets\img\zasoby_sem_logo.png"
             />
           </router-link>
         </div>
